@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wagner\.android\build-cache\22378f731cd2b0315c6391f469bfaa010543a9b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wagner\.android\build-cache\4c153878eb02ceab635f0245c0f0fc3d9078b552\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wagner\.android\build-cache\a430c22176919a180b11bd7e60d1d9d0f1645728\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wagner\.android\build-cache\954824fd29c8beeb1223e6ae8e672a1d49e830ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wagner\.android\build-cache\f1fad5f95e7ecbaf9c038a51a8f29b6d946b34a0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wagner\.android\build-cache\8fdadfd04e4a0f401b0f2960da875e5c3ff18132\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Wagner\.android\build-cache\1f3f6663bdbe4926cc58f5481768452e03410428\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Wagner\.android\build-cache\69fc49912fbd75fe63910b6e182a9551eb9055a8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wagner\.android\build-cache\f102a979f44c20aa22399e4b4a2eb4ae1e8edc64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wagner\.android\build-cache\fedd7ea31b1255f7c9fa9888a02abb1999f77a65\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:11:9-40
+activity#wagner_e_nivaldo.listadecompras.MainActivity
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:16:27-74
+activity#wagner_e_nivaldo.listadecompras.FinalActivity
+ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml:19:19-48
+uses-sdk
+INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wagner\.android\build-cache\22378f731cd2b0315c6391f469bfaa010543a9b7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wagner\.android\build-cache\4c153878eb02ceab635f0245c0f0fc3d9078b552\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wagner\.android\build-cache\a430c22176919a180b11bd7e60d1d9d0f1645728\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wagner\.android\build-cache\954824fd29c8beeb1223e6ae8e672a1d49e830ac\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wagner\.android\build-cache\f1fad5f95e7ecbaf9c038a51a8f29b6d946b34a0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wagner\.android\build-cache\8fdadfd04e4a0f401b0f2960da875e5c3ff18132\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Wagner\.android\build-cache\1f3f6663bdbe4926cc58f5481768452e03410428\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Wagner\.android\build-cache\69fc49912fbd75fe63910b6e182a9551eb9055a8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wagner\.android\build-cache\f102a979f44c20aa22399e4b4a2eb4ae1e8edc64\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wagner\.android\build-cache\fedd7ea31b1255f7c9fa9888a02abb1999f77a65\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wagner\.android\build-cache\22378f731cd2b0315c6391f469bfaa010543a9b7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wagner\AndroidStudioProjects\ListaDeCompras\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wagner\.android\build-cache\22378f731cd2b0315c6391f469bfaa010543a9b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wagner\.android\build-cache\4c153878eb02ceab635f0245c0f0fc3d9078b552\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wagner\.android\build-cache\a430c22176919a180b11bd7e60d1d9d0f1645728\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wagner\.android\build-cache\954824fd29c8beeb1223e6ae8e672a1d49e830ac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wagner\.android\build-cache\f1fad5f95e7ecbaf9c038a51a8f29b6d946b34a0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wagner\.android\build-cache\8fdadfd04e4a0f401b0f2960da875e5c3ff18132\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Wagner\.android\build-cache\1f3f6663bdbe4926cc58f5481768452e03410428\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Wagner\.android\build-cache\69fc49912fbd75fe63910b6e182a9551eb9055a8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wagner\.android\build-cache\f102a979f44c20aa22399e4b4a2eb4ae1e8edc64\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wagner\.android\build-cache\22378f731cd2b0315c6391f469bfaa010543a9b7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wagner\.android\build-cache\22378f731cd2b0315c6391f469bfaa010543a9b7\output\AndroidManifest.xml:26:9-47

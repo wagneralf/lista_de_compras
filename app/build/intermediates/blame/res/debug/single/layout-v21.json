@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Wagner\\AndroidStudioProjects\\ListaDeCompras\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Wagner\\.android\\build-cache\\22378f731cd2b0315c6391f469bfaa010543a9b7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wagner\\AndroidStudioProjects\\ListaDeCompras\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Wagner\\.android\\build-cache\\22378f731cd2b0315c6391f469bfaa010543a9b7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wagner\\AndroidStudioProjects\\ListaDeCompras\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Wagner\\.android\\build-cache\\22378f731cd2b0315c6391f469bfaa010543a9b7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wagner\\AndroidStudioProjects\\ListaDeCompras\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Wagner\\.android\\build-cache\\22378f731cd2b0315c6391f469bfaa010543a9b7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
